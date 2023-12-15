@@ -284,8 +284,7 @@ async function generateRainVideos(numSounds, duration) {
     output.push({
       name: `Night №${i}`,
       image: i,
-      description: `Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №${i} by bgdshka`,
-      background_color: 'ffffff',
+      description: `This is a generative multimedia collection of sounds from which the picture is generated and compressed. Everything together creates a unique atmosphere of the night experience. Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №${i} by bgdshka`,
       attributes: [
         {
           trait_type: 'Extra image compress quality percent',
@@ -323,7 +322,7 @@ async function generateRainVideos(numSounds, duration) {
   fs.writeFileSync('output.json', JSON.stringify(output, null, 2));
 }
 
-generateRainVideos(10)
+generateRainVideos(888)
   .then(() => console.log('Done'))
   .catch((err) => console.error(err));
 

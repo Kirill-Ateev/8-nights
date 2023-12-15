@@ -1,5 +1,7 @@
 node_modules
-voices
-sounds
-webm
-images
+voices/*
+sounds/*
+webm/*
+images/*
+output/*
+videoScreens/*
