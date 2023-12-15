@@ -1,0 +1,690 @@
+[
+  {
+    "name": "Night №1",
+    "image": 1,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №1 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "80"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "27"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "-1"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "4"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "3"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "-0.5"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.1"
+      },
+      {
+        "trait_type": "C4 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "D4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "G3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F3 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №2",
+    "image": 2,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №2 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "90"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "10"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "2"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "2"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "1"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.4"
+      },
+      {
+        "trait_type": "D4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "F4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №3",
+    "image": 3,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №3 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "20"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "51"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "4"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "0"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "4"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "2"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.6"
+      },
+      {
+        "trait_type": "E4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "G3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "4"
+      },
+      {
+        "trait_type": "C5 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №4",
+    "image": 4,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №4 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "60"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "90"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "-6"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "8"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "-3"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.1"
+      },
+      {
+        "trait_type": "C5 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "E4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "E3 note amount",
+        "value": "4"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "G4 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "F4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "D3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "G3 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №5",
+    "image": 5,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №5 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "40"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "35"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "6"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "0"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "2"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "3"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.9"
+      },
+      {
+        "trait_type": "C3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C5 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №6",
+    "image": 6,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №6 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "30"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "91"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "5"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "4"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "7"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "2.5"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.7"
+      },
+      {
+        "trait_type": "G3 note amount",
+        "value": "4"
+      },
+      {
+        "trait_type": "G4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "E3 note amount",
+        "value": "5"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "E4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "D4 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №7",
+    "image": 7,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №7 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "80"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "42"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "2"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "7"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "5"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "1"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.5"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "E4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "C5 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "E3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "D3 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №8",
+    "image": 8,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №8 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "40"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "70"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "-3"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "0"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "3"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "-1.5"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.2"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C5 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "F3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "E3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "F4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "G3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "D4 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №9",
+    "image": 9,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №9 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "40"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "88"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "-1"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "1"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "-0.5"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.3"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F4 note amount",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "name": "Night №10",
+    "image": 10,
+    "description": "Night shards crumbs settle in the consciousness. The sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №10 by bgdshka",
+    "background_color": "ffffff",
+    "attributes": [
+      {
+        "trait_type": "Extra image compress quality percent",
+        "value": "100"
+      },
+      {
+        "trait_type": "Audio bitrate",
+        "value": "74"
+      },
+      {
+        "trait_type": "Intensity",
+        "value": "0"
+      },
+      {
+        "trait_type": "Noise amount",
+        "value": "6"
+      },
+      {
+        "trait_type": "Duration",
+        "value": "8"
+      },
+      {
+        "trait_type": "Amplitude",
+        "value": "0"
+      },
+      {
+        "trait_type": "Amplitude variation",
+        "value": "0.4"
+      },
+      {
+        "trait_type": "E3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "B3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "F4 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C5 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "E4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "G4 note amount",
+        "value": "3"
+      },
+      {
+        "trait_type": "D3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "A4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "G3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C3 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "B4 note amount",
+        "value": "2"
+      },
+      {
+        "trait_type": "A3 note amount",
+        "value": "1"
+      },
+      {
+        "trait_type": "C4 note amount",
+        "value": "1"
+      }
+    ]
+  }
+]
