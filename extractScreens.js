@@ -44,18 +44,30 @@ if (!fs.existsSync(outputDir)) {
 // } catch (err) {
 //   console.error('Error reading the directory', err);
 // }
-const number = 526;
 
-ffmpeg(`./webm/${number}.mp4`)
-  .on('end', (files) => {
-    console.log(`Finished processing!` + files);
-  })
-  .on('error', (err) => {
-    console.error(`Error processing!`, err);
-  })
-  .screenshots({
-    timestamps: [0],
-    filename: `${number}.png`,
-    folder: './videoScreens',
-    size: '128x128',
-  });
+async function start() {
+  const j = 888;
+  for (let i = 1; i <= j; i++) {
+    // wait for the promise to resolve before advancing the for loop
+    await new Promise((resolve, reject) => {
+      ffmpeg(`./webm/${i}.mp4`)
+        .on('end', (files) => {
+          console.log(`Finished processing!` + files);
+          resolve();
+        })
+        .on('error', (err) => {
+          console.error(`Error processing!`, err);
+          reject();
+        })
+        .screenshots({
+          timestamps: [0],
+          filename: `${i}.png`,
+          folder: './videoScreens',
+          size: '128x128',
+        });
+    });
+    console.log('Complete for ' + i);
+  }
+}
+
+start();
