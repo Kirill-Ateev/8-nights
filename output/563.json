@@ -1,0 +1,65 @@
+{
+  "name": "Night №564",
+  "image": "ipfs://bafybeids7ta2frdol2tctrze5iuhbbbf7767oi6igbob4zpdvcnsmdehrm/564.png",
+  "description": "This is not just a collection, it's a pioneering exploration in the realm of compression-based generative art, a first of its kind. Everything together creates a unique atmosphere of the night experience.\n\nThis pieces represents a groundbreaking foray into generative multimedia, where a symphony of intricate sounds is the foundation for crafting visuals. Each image emerges, intricately woven and compressed from this auditory tapestry, offering an unparalleled fusion of sensory experiences.\n\nThe sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №564 by bgdshka.",
+  "attributes": [
+    {
+      "trait_type": "Extra image compress quality percent",
+      "value": "80"
+    },
+    {
+      "trait_type": "Audio bitrate",
+      "value": "77"
+    },
+    {
+      "trait_type": "Intensity",
+      "value": "-5"
+    },
+    {
+      "trait_type": "Noise amount",
+      "value": "2"
+    },
+    {
+      "trait_type": "Duration",
+      "value": "3"
+    },
+    {
+      "trait_type": "Amplitude",
+      "value": "-2.5"
+    },
+    {
+      "trait_type": "Amplitude variation",
+      "value": "0.3"
+    },
+    {
+      "trait_type": "D3 note amount",
+      "value": "1"
+    },
+    {
+      "trait_type": "G3 note amount",
+      "value": "2"
+    },
+    {
+      "trait_type": "F3 note amount",
+      "value": "2"
+    },
+    {
+      "trait_type": "F4 note amount",
+      "value": "1"
+    },
+    {
+      "trait_type": "C4 note amount",
+      "value": "1"
+    },
+    {
+      "trait_type": "B4 note amount",
+      "value": "2"
+    },
+    {
+      "trait_type": "A3 note amount",
+      "value": "1"
+    }
+  ],
+  "content_url": "ipfs://bafybeia63qfndn2y4iksq43md5udzxt4d7wkkl4mylcalg54lj2gylxugm/564.mp4",
+  "content_type": "video/mp4"
+}
