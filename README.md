@@ -9,3 +9,4 @@ Files stored on IPFS via CAR format. The original components are presented in th
 # More information
 
 https://ateev.art/en
+https://t.me/ateev_kirill
