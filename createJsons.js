@@ -28,7 +28,7 @@ fs.readFile(inputFile, 'utf8', (err, data) => {
         content_type: 'video/mp4',
         description: `This is not just a collection, it's a pioneering exploration in the realm of compression-based generative art, a first of its kind. Everything together creates a unique atmosphere of the night experience.\n\nThis pieces represents a groundbreaking foray into generative multimedia, where a symphony of intricate sounds is the foundation for crafting visuals. Each image emerges, intricately woven and compressed from this auditory tapestry, offering an unparalleled fusion of sensory experiences.\n\nThe sheer magnitude of knowledge is staggering in the variability of being. Always and in everything. Observing, it is reflected in us, your favorite attention wrappers. Night №${
           index + 1
-        } by bgdshka.`,
+        } by Kirill Ateev.`,
       };
 
       // Convert the updated object to JSON
