@@ -1,4 +1,4 @@
-# Application for generating the 8 Nights TON NFT collection
+# Application for generating the "8 Nights" TON NFT collection
 
 https://getgems.io/nights
 
