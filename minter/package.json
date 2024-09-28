@@ -1,0 +1,22 @@
+{
+  "name": "MintyTON",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "start": "tsc --skipLibCheck && node dist/src/app.js",
+    "change": "tsc --skipLibCheck && node dist/src/changeContent.js"
+  },
+  "dependencies": {
+    "@orbs-network/ton-access": "^2.3.3",
+    "@pinata/sdk": "^2.1.0",
+    "dotenv": "^16.3.1",
+    "ton": "^13.9.0",
+    "ton-core": "^0.53.0",
+    "ton-crypto": "^3.2.0"
+  }
+}
